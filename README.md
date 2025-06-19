@@ -65,7 +65,7 @@ student-list/
 ## 📄 License
 
 This project is open-source and free to use.
-
+the link  to live is : https://student-list-gamal.netlify.app/
 ---
 
 > Built with ❤️ by [Gamal Hal](https://github.com/gamalhal)
